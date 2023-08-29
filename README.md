@@ -2,5 +2,5 @@
 
 this a my first learning github
 <br>
-by pragram
+by pragram purpose
  
